@@ -51,5 +51,6 @@ Display SSD1306, conectado via I2C (GPIO 14 e GPIO 15).
 
 ## Desenvolvedor
 
-Raiane Damascena📧 E-mail: rai.paixao2012@gmail.com
+Raiane Damascena📧 
+E-mail: rai.paixao2012@gmail.com
 
