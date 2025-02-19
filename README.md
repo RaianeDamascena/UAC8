@@ -48,6 +48,10 @@ Botão A, conectado à GPIO 5.
 Display SSD1306, conectado via I2C (GPIO 14 e GPIO 15).
 
 
+## Link do video funcionando na placa bitdoglab
+
+https://drive.google.com/file/d/1aU8eBNUxFIy38B7hERJ2j7Ssnu8-t5kA/view?usp=sharing
+
 
 ## Desenvolvedor
 
